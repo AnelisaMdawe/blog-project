@@ -10,7 +10,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
  * @property string $title
  */
 class Post extends Model
-
+{
     //use hasFactory;
     protected $guarded = [];
 
